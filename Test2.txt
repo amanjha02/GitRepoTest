@@ -4,8 +4,10 @@ Test1test
 
 
 
-second Test
-s
+
+
+line has been deleted
+
 
 Third test
 
